@@ -49,7 +49,7 @@ The dashboard analyzes sales data to uncover insights related to **revenue, orde
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Overview]("Screenshot 2026-01-14 202659.png")
+![Dashboard Overview]("C:\Users\Dell\Pictures\Screenshots\Screenshot 2026-01-14 202659.png")
 
 ---
 
